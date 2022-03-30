@@ -1,0 +1,65 @@
+.pegawai {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 90%;
+  margin: 50px;
+}
+
+.nama {
+  font-size: 20px;
+  font-family: monospace;
+  padding-left: 60px;
+  text-align: left;
+  background-color: #bec8ed;
+}
+
+.pegawaiDetails {
+  background-color: #172a5b;
+  color: #eeeeee;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-family: initial;
+}
+
+.button-verified {
+  background-color: rgb(1, 123, 11);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.button-verify {
+  background-color: rgb(126, 13, 1);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.tittle-page {
+  text-align: center;
+}
+
+.tittle-page-title {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #eeeeee;
+}
